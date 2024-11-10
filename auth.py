@@ -1,4 +1,3 @@
-# auth.py
 import jwt
 import bcrypt
 import sqlite3
